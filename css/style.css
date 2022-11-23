@@ -54,6 +54,11 @@ td {
 }
 
 
+@media (max-width:992px) {
+ .items {
+    width:100% !important;
+ }
+}
 
 
 
@@ -107,6 +112,5 @@ td {
 
 .move:hover {
     transform: translate(10px, 10px);
-
 }
 
